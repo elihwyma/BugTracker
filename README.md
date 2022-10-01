@@ -1,2 +1,2 @@
 # BugTracker
-Bug Tracker for private repos
+Bug Tracker for private repos 
